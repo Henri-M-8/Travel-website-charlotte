@@ -1,0 +1,1 @@
+This is a simple website that I created to learn HTML and CSS. It has various objects and uses classes to modify attributes of these objects in css. This included changing the color of text and changing the alignment of text on the page. All images were taken from Wikipedia. This project was originally created on Khan Academy.
